@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useRouter } from 'next/router';
 
 import { useTags } from './TagsContext';

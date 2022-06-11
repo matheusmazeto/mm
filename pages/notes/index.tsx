@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { InferGetStaticPropsType } from 'next';
 import { NextSeo } from 'next-seo';
 import { PostPreviewList } from 'pages/posts';
