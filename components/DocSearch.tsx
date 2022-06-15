@@ -7,9 +7,9 @@ export const DocSearch = () => {
   return (
     <div className="ml-16">
       <AlogliaDocSearch
-        appId="SVT4G5LTUB"
+        appId={process.env.NEXT_PUBLIC_ALGOLIA_APP_ID as string}
         indexName="matheusmazeto"
-        apiKey="057d2b982169bd823a939512229c050e"
+        apiKey="c99913d99ab9d921133e2fe216e4e591"
       />
     </div>
   );
