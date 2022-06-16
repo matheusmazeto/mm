@@ -1,16 +1,13 @@
 import '@docsearch/css';
 
-import { DocSearch as AlogliaDocSearch } from '@docsearch/react';
-import * as React from 'react';
+import { DocSearch as AlgoliaDocSearch } from '@docsearch/react';
 
-export const DocSearch = () => {
+export function DocSearch() {
   return (
-    <div className="ml-16">
-      <AlogliaDocSearch
-        appId={process.env.NEXT_PUBLIC_ALGOLIA_APP_ID as string}
-        indexName="matheusmazeto"
-        apiKey="c99913d99ab9d921133e2fe216e4e591"
-      />
-    </div>
+    <AlgoliaDocSearch
+      appId="BOKLC625CE"
+      indexName="matheusmazeto"
+      apiKey="c99913d99ab9d921133e2fe216e4e591"
+    />
   );
-};
+}
