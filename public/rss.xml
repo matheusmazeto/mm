@@ -4,7 +4,7 @@
         <title>Matheus's blog</title>
         <link>https://matheusmazeto.com</link>
         <description>You can find me talking about topics related to JavaScript, TypeScript, React, Web development and technical/coding interviews</description>
-        <lastBuildDate>Sat, 11 Jun 2022 16:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 17:01:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,14 +16,6 @@
             <pubDate>Thu, 19 May 2022 23:00:00 GMT</pubDate>
             <description><![CDATA[JavaScript is such an imperfect language that you can’t even rely on it  for simple things like checking data types. ]]></description>
             <content:encoded><![CDATA[JavaScript is such an imperfect language that you can’t even rely on it  for simple things like checking data types. ]]></content:encoded>
-            <author>mgmazeto@gmail.com (Matheus Mazeto)</author>
-            <category>javascript</category>
-        </item>
-        <item>
-            <title><![CDATA[JSON and the stringification oddities in JavaScript]]></title>
-            <link>https://matheusmazeto.com/posts/json-oddities</link>
-            <guid>https://matheusmazeto.com/posts/json-oddities</guid>
-            <pubDate>Wed, 18 May 2022 23:00:00 GMT</pubDate>
             <author>mgmazeto@gmail.com (Matheus Mazeto)</author>
             <category>javascript</category>
         </item>
